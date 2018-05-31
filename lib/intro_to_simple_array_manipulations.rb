@@ -32,3 +32,6 @@ end
 
 def using_uniq(array)
   array.unique
+end
+
+def using_
